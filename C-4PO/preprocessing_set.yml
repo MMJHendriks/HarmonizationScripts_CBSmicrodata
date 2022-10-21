@@ -1,0 +1,48 @@
+default:
+  data_preparation:
+    n_max: 1000
+    # selected years PRNL
+    prnl_year_min: "01/01/2004"
+    prnl_year_max: "31/12/2016"
+    # selected years zvwzorgkosten parents
+    health_year_min: "01/01/2009"
+    health_year_max: "31/12/2019"
+    # selected years education level parents
+    educ_year_min: "01/01/1999"
+    educ_year_max: "31/12/2020"
+    # selected years income parents
+    parent_income_year_min: "01/01/2003"
+    parent_income_year_max: "31/12/2020"
+    # selected years income spolis parents
+    parent_spolis_year_min: 2010
+    parent_spolis_year_max: 2021
+    # selected years income spolis parents
+    parent_polis_year_min: 2006
+    parent_polis_year_max: 2009
+    # select year for most recent residence data file
+    residence_year: 2020
+  
+  file_locations:
+    # The data folder is the root folder of the cbs microdata tables
+    data_folder: "G:/"
+    
+    # path to the cbs microdata
+    prnl_data: "GezondheidWelzijn/PRNL/"
+    secm_data: "InkomenBestedingen/SECMBUS/SECMBUS2020V1.sav"
+    zvwzorgkosten_data: "GezondheidWelzijn/ZVWZORGKOSTENTAB/"
+    kindouder_data: "Bevolking/KINDOUDERTAB/2020/KINDOUDER2020TABV2.sav"
+    gba_data: "Bevolking/GBAPERSOONTAB/2020/GBAPERSOON2020TABV3.sav"
+    educ_data: "Onderwijs/HOOGSTEOPLTAB/"
+    income_data: "InkomenBestedingen/INPATAB/"
+    residence_data: "Bevolking/GBAADRESOBJECTBUS/"
+    income_ipi_data: "/InkomenBestedingen/INTEGRAAL PERSOONLIJK INKOMEN/"
+    spolis_data: "/Spolis/SPOLISBUS/"
+    polis_data: "/Polis/POLISBUS/"
+    
+    gwb_data: "/BouwenWonen/VSLGWBTAB/VSLGWB2021TAB12V1.sav"
+    postcode_data: "/BouwenWonen/VSLPOSTCODEBUS/VSLPOSTCODEBUSV2021031.sav"
+    
+    opleidingsnrref: "K:/Utilities/Code_Listings/SSBreferentiebestanden/OPLEIDINGSNRREFV28.SAV"
+    ctoref: "K:/Utilities/Code_Listings/SSBreferentiebestanden/ctorefv10goed.SAV"
+    origin_ref: "K:/Utilities/Code_Listings/SSBreferentiebestanden/LANDAKTUEELREFV11.SAV"
+    
