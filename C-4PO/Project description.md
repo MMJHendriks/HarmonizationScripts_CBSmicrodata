@@ -2,6 +2,7 @@
 
 ## Doel van C-4PO: hoe kunnen we (aanstaande) ouders ondersteunen tijdens de eerste 1000 dagen?
 *(The English version will soon be available)*
+
 De ontwikkeling van een kind tijdens de zwangerschap en de eerste twee jaar van het leven heeft invloed op de gezondheid en ontwikkeling tijdens het hele leven. Helaas hebben sommige kinderen een slechte start. Doordat zij te vroeg geboren worden, te weinig wegen bij de geboorte of door andere factoren. De gezondheid van een kind voor, tijdens en na de geboorte blijkt een belangrijke voorspeller te zijn van problemen – zowel fysiek als mentaal – op latere leeftijd.
 
 In dit project gaan ouders, professionals en onderzoekers samen ontdekken hoe “big data” ingezet kunnen worden voor zorg op maat. Zo hoopt C-4PO (aanstaande) ouders beter te kunnen ondersteunen in de eerste 1000 dagen van het leven van hun kind.
