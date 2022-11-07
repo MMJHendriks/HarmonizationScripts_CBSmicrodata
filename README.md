@@ -10,3 +10,6 @@ While the CBS microdata infrastructure facilitates ground-breaking research, it 
 In the project _Children and (future) Parents, supported by Prediction and Professionals in Prevention, to improve Opportunity_ researchers work with CBS microdata on child health and development, demographic variables and parental characteristics. We have harmonized microdata of eleven data topics, and have made the R scripts openly accessible via GitHub. The intention is that other CBS microdata-users can use these ‘harmonization-scripts’; run the scripts and easily extract the harmonized data of interest. Moreover, we will encourage other users of CBS microdata to publish harmonization-scripts on this GitHub repository.  
 
 This communal data harmonization services initiative for users of CBS microdata provides a range of benefits: increasing visibility of harmonization efforts, optimizing reproducibility to reduce time-consuming work, and improving efficiency. Not only does this initiative promote the implementation of Open Science and FAIR principles, it might also stimulate users of CBS microdata to cooperate.
+
+# Contact
+Voor vragen en/of opmerkingen: m.m.j.hendriks@ese.eur.nl of www.linkedin.com/in/mirthe-hendriks
