@@ -5,7 +5,7 @@ By: Bastian Ravesteijn and Mirthe Hendriks, Erasmus University Rotterdam: Erasmu
 ## The initiative 
 This is a community-based initiative for researchers working with CBS microdata in the Remote Access environment. The motivation behind this initiative is to facilitate easier, less time-consuming data harmonization, particularly to optimize the combining (or joining) of different CBS microdata files. How? by making data harmonization scripts openly accessible through GitHub. The intention is that other CBS microdata-users can use these ‘harmonization-scripts’; run the scripts and easily extract the harmonized data of interest. The intention is that other CBS microdata-users can use these ‘harmonization-scripts’; run the scripts in the RA-environment and extract the harmonized data of interest.  
 
-# Publish your own data harmonization-scrips! 
+## Publish your own data harmonization-scrips! 
 Do you work with the CBS microdata? Did you write your own scripts to harmonize the CBS microdata? Please publish these harmonization-scripts on this GitHub repository! 
 Not familiar with GitHub? Please send me your harmonization-scripts and I will publish them for you (mail: m.m.j.hendriks@ese.eur.nl).
 
