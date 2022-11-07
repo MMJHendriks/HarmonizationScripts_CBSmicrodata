@@ -7,7 +7,7 @@ This is a community-based initiative for researchers working with CBS microdata 
 
 # Publish your own data harmonization-scrips! 
 Do you work with the CBS microdata? Did you write your own scripts to harmonize the CBS microdata? Please publish these harmonization-scripts on this GitHub repository! 
-Not familiar with GitHub? Please send me your harmonization-scripts and I will publish them for you (mail: [m.m.j.hendriks@ese.eur.nl]).
+Not familiar with GitHub? Please send me your harmonization-scripts and I will publish them for you (mail: m.m.j.hendriks@ese.eur.nl).
 
 ## Abstract - a more detailed description    
 For users of CBS microdata, data harmonization is an unavoidable but time-consuming part the data analysis process. Data harmonization refers to the effort of combining data from different sources with varying file locations, file formats, and naming conventions, and transforming it into a single cohesive data set. Our aim is to provide communal services for CBS microdata-users by making data harmonization scrips openly and easily accessible.  
