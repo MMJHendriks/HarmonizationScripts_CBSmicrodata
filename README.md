@@ -7,6 +7,7 @@ This is a community-based initiative for researchers working with CBS microdata 
 
 ## Publish your own data harmonization-scrips! 
 Do you work with the CBS microdata? Did you write your own scripts to harmonize the CBS microdata? Please publish these harmonization-scripts on this GitHub repository! 
+How? Log in to your own GitHub account and go to this repository. Click on [Fork](https://github.com/MMJHendriks/HarmonizationScripts_CBSmicrodata/fork). By doing this you create your own copy of this repository, one in which you can make changes without affecting the original. In the forked repository, you can create a new folder and add files - your own harmonization scripts - to this folder. Also add a project description in which you describe your project and your scripts. When you are finished, submit a pull request to the original repository. 
 Not familiar with GitHub? Please send me your harmonization-scripts and I will publish them for you (mail: m.m.j.hendriks@ese.eur.nl).
 
 ## Abstract - a more detailed description    
